@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<books>
+    <book>
+        <title>Of Blood and Honor</title>
+        <price>$10.99</price>
+        <image>bookImages/book1.jpg</image>
+        <authors>
+            <author>Chris Metzen</author>
+        </authors>
+        <year>2001</year>
+    </book>
+    <book>
+        <title>Day of the dragon</title>
+        <price>$10.99</price>
+        <image>bookImages/book2.jpg</image>
+        <authors>
+            <author>Richard A. Knaak</author>
+        </authors>
+        <year>2001</year>
+    </book>
+    <book>
+        <title>Lord of the Clans</title>
+        <price>$11.99</price>
+        <image>bookImages/book3.jpg</image>
+        <authors>
+            <author>Christie Golden</author>
+        </authors>
+        <year>2001</year>
+    </book>
+    <book>
+        <title>The last guardian</title>
+        <price>$14.95</price>
+        <image>bookImages/book4.jpg</image>
+        <authors>
+            <author>Jeff Grubb</author>
+        </authors>
+        <year>2001</year>
+    </book>
+    <book>
+        <title>(trilogy) - War of the ancient</title>
+        <price>$14.95</price>
+        <image>bookImages/book5.webp</image>
+        <authors>
+            <author>Richard A. Knaak</author>
+        </authors>
+        <year>2004</year>
+    </book>
+    <book>
+        <title>Cycle of Hatred</title>
+        <price>$10.97</price>
+        <image>bookImages/book6.jpg</image>
+        <authors>
+            <author>Keith R. A. DeCandido</author>
+        </authors>
+        <year>2006</year>
+    </book>
+    <book>
+        <title>Rise of the Horde</title>
+        <price>$14.14</price>
+        <image>bookImages/book7.jpg</image>
+        <authors>
+            <author>Christie Golden</author>
+        </authors>
+        <year>2006</year>
+    </book>
+    <book>
+        <title>Beyond the Dark Portal</title>
+        <price>$13.74</price>
+        <image>bookImages/book8.jpg</image>
+        <authors>
+            <author>Christie Golden</author>
+            <author>Aaron S. Rosenberg</author>
+        </authors>
+        <year>2008</year>
+    </book>
+    <book>
+        <title>Night of the Dragon</title>
+        <price>$6.36</price>
+        <image>bookImages/book9.jpg</image>
+        <authors>
+            <author>Richard A. Knaak</author>
+        </authors>
+        <year>2008</year>
+    </book>
+    <book>
+        <title>Arthas: Rise of the Lich King</title>
+        <price>$14.95</price>
+        <image>bookImages/book10.jpg</image>
+        <authors>
+            <author>Christie Golden</author>
+        </authors>
+        <year>2007</year>
+    </book>
+    <book>
+        <title>Jaina Proudmoore: Tides of War</title>
+        <price>$5.74</price>
+        <image>bookImages/book14.jpg</image>
+        <authors>
+            <author>Christie Golden</author>
+        </authors>
+        <year>2012</year>
+    </book>
+    <book>
+        <title>Thrall: Twilight of the Aspects</title>
+        <price>$9.98</price>
+        <image>bookImages/book12.jpg</image>
+        <authors>
+            <author>Christie Golden</author>
+        </authors>
+        <year>2011</year>
+    </book>
+    <book>
+        <title>Wolfheart</title>
+        <price>$6.76</price>
+        <image>bookImages/book13.jpg</image>
+        <authors>
+            <author>Richard A. Knaak</author>
+        </authors>
+        <year>2011</year>
+    </book>
+    <book>
+        <title>Stormrage</title>
+        <price>$6.78</price>
+        <image>bookImages/book11.jpg</image>
+        <authors>
+            <author>Richard A. Knaak</author>
+        </authors>
+        <year>2010</year>
+    </book>
+    <book>
+        <title>Illidan</title>
+        <price>$13.37</price>
+        <image>bookImages/book18.jpg</image>
+        <authors>
+            <author>William King</author>
+        </authors>
+        <year>2016</year>
+    </book>
+    <book>
+        <title>Vol’jin: Shadows of the Horde</title>
+        <price>$10.99</price>
+        <image>bookImages/book16.jpg</image>
+        <authors>
+            <author>Keith R. A. DeCandido</author>
+        </authors>
+        <year>2006</year>
+    </book>
+    <book>
+        <title> War Crimes</title>
+        <price>$14.42</price>
+        <image>bookImages/book17.jpg</image>
+        <authors>
+            <author>Michael A. Stackpole</author>
+        </authors>
+        <year>2013</year>
+    </book>
+    <book>
+        <title>Dawn of the Aspects</title>
+        <price>$8.38</price>
+        <image>bookImages/book15.jpg</image>
+        <authors>
+            <author>Richard A. Knaak</author>
+        </authors>
+        <year>2013</year>
+    </book>
+</books>

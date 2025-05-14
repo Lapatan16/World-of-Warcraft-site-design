@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<classes>
+    <class>
+        <name>Druid</name>
+        <descrtiption>
+            Druids are the keepers of the world and masters of nature with a diverse array of abilities. They are powerful healers, capable of curing poisons and raising fallen comrades in the thick of battle. Druids also command nature's wrath, calling down ranged blasts of energy, summoning swarms of insects, or entangling their foes in the earth. But druids are also masters of the wild, able to shapeshift into a great bear, cat, or even sea lion, gaining their powers in combat or travel. Druids are a diverse class with a variety of playstyles, capable of filling any role.
+        </descrtiption>
+        <image>classesImage/druid.png</image>
+    </class>
+    <class>
+        <name>Hunter</name>
+        <descrtiption>
+            Hunters are deadly marksmen, capable of bringing their enemies down from a distance with bows or rifles. Skilled survivalists, they can track enemies or lay traps to damage and entrap their foes. Hunters also possess a primal connection to the beasts of Azeroth, capable of taming and training them to keep as loyal guardians. Wearing light to medium armor, hunters can also dual wield weapons in combat, fighting beside their pets in battle.
+        </descrtiption>
+        <image>classesImage/hunter.png</image>
+    </class>
+    <class>
+        <name>Mage</name>
+        <descrtiption>
+            Mages (or Magi) wield the elements of fire, frost, and the arcane to destroy or neutralize their enemies. They are a robed class that excels at dealing massive damage from afar, casting elemental bolts at a single target, or raining destruction down upon their enemies in a wide area of effect. Mages can also augment their allies' spell-casting powers, summon food or drink to restore their friends, and even travel across the world in an instant by opening arcane portals to distant lands.
+        </descrtiption>
+        <image>classesImage/mage.png</image>
+    </class>
+    <class>
+        <name>Paladin</name>
+        <descrtiption>
+            Guardians of the Holy Light and defenders of the Alliance, paladins bolster their allies with holy auras and blessing to protect their friends from harm and enhance their powers. Wearing heavy armor, they can withstand terrible blows in the thickest battles while healing their wounded allies and resurrecting the slain. In combat, they can wield massive two-handed weapons, stun their foes, destroy undead and demons, and judge their enemies with holy vengeance. Paladins are a defensive class designed to outlast their opponents.
+        </descrtiption>
+        <image>classesImage/paladin.png</image>
+    </class>
+    <class>
+        <name>Priest</name>
+        <descrtiption>
+            Priests are the masters of healing and preservation, restoring their wounded allies, shielding them in battle, and even resurrecting their fallen comrades. While they have a variety of protective and enhancement spells to bolster their allies, priests can also wreak terrible vengeance on their enemies, using the powers of shadow or holy light to destroy them. They are a diverse and powerful class, highly desirable in any group, capable of fulfilling multiple roles.
+        </descrtiption>
+        <image>classesImage/priest.png</image>
+    </class>
+    <class>
+        <name>Rogue</name>
+        <descrtiption>
+            Rogues are a lightly armored melee class capable of dealing massive damage to their enemies in a flurry of attacks. They are masters of stealth and assassination, passing by enemies unseen and striking from the shadows, then escaping from combat in the blink of an eye. Rogues can also craft poisons that damage or cripple their enemies, reducing their effectiveness in battle. Groups will find rogues valuable, for not only do they deal massive damage, but they can open locked doors or chests, and disarm hidden traps as well.
+        </descrtiption>
+        <image>classesImage/rogue.png</image>
+    </class>
+    <class>
+        <name>Shaman</name>
+        <descrtiption>
+            Shaman are the spiritual leaders of their tribes and clans. They are masters of the elements, using spells and totems that heal or enhance their allies in battle while unleashing the fury of the elements upon their foes. Shaman can wear medium armor, and even wield massive two-handed weapons in combat. They are a versatile class that can wade into battle, restoring their allies while hurling elemental bolts of lightning at their enemies.
+        </descrtiption>
+        <image>classesImage/shaman.png</image>
+    </class>
+    <class>
+        <name>Warlock</name>
+        <descrtiption>
+            Warlocks are masters of shadow, flame, and demonic power. They are a robed class that excels at plaguing their enemies with disease or curses, hurling bolts of fire or shadow energy across the battlefield, and summoning demons to aid them in combat. While warlocks are powerful casters that deal damage from a distance, their demonic powers can also protect or support their allies in battle, or even summon other players from across the world using ritual magic to conjure portals.
+        </descrtiption>
+        <image>classesImage/warlock.png</image>
+    </class>
+    <class>
+        <name>Warrior</name>
+        <descrtiption>
+            Warriors can be a raging berserker or an iron-clad juggernaut, capable of withstanding tremendous attacks while protecting their allies from harm. They have a wide variety of attacks that do everything from cripple their enemies, to dealing massive amounts of damage in a single retaliatory blow, and enhancing their allies' fighting ability with battle shouts. They excel at fighting multiple opponents at once, gaining rage from every blow dealt or received to unleash their attacks. Warriors are a versatile class with a variety of play-styles to choose from.
+        </descrtiption>
+        <image>classesImage/warrior.png</image>
+    </class>
+</classes>

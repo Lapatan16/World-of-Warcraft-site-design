@@ -1,0 +1,43 @@
+#cont
+{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 20px;
+}
+
+#cont > div
+{
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.444);
+    height: 350px;
+    border: 1px solid #b8860b;
+    border-radius: 10px;
+}
+
+.title
+{
+    margin: 10px 0;
+}
+
+.slika img
+{
+    width: 200px;
+    height: 250px;
+    float: left;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.tekst
+{
+    height: 280px;
+    position: relative;
+    overflow-y: scroll;
+    text-align: justify;
+}
+
+.tekst p::-webkit-scrollbar
+{
+    display: none;
+}
+

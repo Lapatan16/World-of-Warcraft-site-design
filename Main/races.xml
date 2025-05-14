@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<races>
+    <race>
+        <faction>Alliance</faction>
+        <racename>Human</racename>
+        <descrtiption>
+        The humans of Stormwind are a resilient breed, having survived an invasion by the savage orcs during the First War. During the Second War, the armies of Stormwind rallied with the Alliance to reclaim their homeland of Azeroth. After the success of the Second War, Stormwind was rebuilt and human civilization began to flourish once again throughout the southlands.
+        With the recent invasion of the Burning Legion - which left the northern kingdom of Lordaeron in ruins - Stormwind now stands as the last bastion of human civilization. Following the heroic examples of the legendary Sir Lothar and King Llane, the defenders of Stormwind are considered to be among the fiercest warriors in the land. They stand resolute in their charge to maintain the honor and might of humanity in an ever-darkening world.
+        </descrtiption>
+        <classes>
+            <class>Mage</class>
+            <class>Paladin</class>
+            <class>Priest</class>
+            <class>Rogue</class>
+            <class>Warlock</class>
+            <class>Warrior</class>
+        </classes>
+        <image>racesImage/human.webp</image>
+    </race>
+    <race>
+        <faction>Alliance</faction>
+        <racename>Dwarf</racename>
+        <descrtiption>
+        The stoic dwarves of Ironforge are an ancient race of robust humanoids who live beneath the snow-capped mountains of Khaz Modan. The dwarves have always been fast allies with the humans, and they revel in the prospects of battle and storytelling alike. In past ages, the dwarves rarely left the safety of their mountain fortresses. However, whenever the call to battle sounded, they rose up to defend their friends and allies with unmatched courage and valor.
+        Due to a recent discovery that uncovered fragments of their ancient origins, the dwarves have undergone a remarkable transformation. The discovery convinced the dwarves that the mighty Titans created them from stone when the world was young. They feel that their destiny is now to search the world over for more signs and proof of their enchanted heritage and to rediscover the Titans' hidden legacies. To this end, the dwarves have sent out their Prospectors to all ends of the world in the hopes of discovering new insight into their shrouded past. These journeys led to dwarven excavation sites all over the known world, some of which serve as outposts and some of which serve as potential hunting grounds for enemies of the dwarven race.
+        </descrtiption>
+        <classes>
+            <class>Hunter</class>
+            <class>Paladin</class>
+            <class>Priest</class>
+            <class>Rogue</class>
+            <class>Warrior</class>
+        </classes>
+        <image>racesImage/dwarf.webp</image>
+    </race>
+    <race>
+        <faction>Alliance</faction>
+        <racename>Gnome</racename>
+        <descrtiption>
+        The eccentric, often-brilliant gnomes are one of the most peculiar races of the world. With their obsession for developing radical new technologies and constructing marvels of mind-bending engineering, it's a wonder that any gnomes have survived to proliferate.
+        Thriving within the wondrous techno-city of Gnomeregan, the gnomes shared the resources of the forested Dun Morogh peaks with their dwarven cousins. Though the dwarves of Ironforge also have a propensity for technology and engineering - it is the gnomes who provide the critical, visionary designs for most of the dwarves' weapons and steam vehicles.</descrtiption>
+        <classes>
+            <class>Mage</class>
+            <class>Rogue</class>
+            <class>Warlock</class>
+            <class>Warrior</class>
+        </classes>
+        <image>racesImage/gnome.png</image>
+    </race>
+    <race>
+        <faction>Alliance</faction>
+        <racename>Night Elves</racename>
+        <descrtiption>
+        The reclusive night elves - shadowy, immortal beings - were the first to study magic and let it loose throughout the world nearly ten thousand years ago. The night elves' reckless use of magic drew the Burning Legion into the world and led to a catastrophic war between the two titanic races. The night elves barely managed to banish the Legion from the world, but their wondrous homeland was shattered and drowned by the sea.
+        Until recently, the night elves closed themselves off from the rest of the world and remained hidden atop their holy mountain of Hyjal for many thousands of years. The Legion's invasion brought the night elves out of their long period of slumber. They now have renewed interest in shaping the world, and for the first time are allying themselves with other races to insure the continued survival of Azeroth. 
+        </descrtiption>
+        <classes>
+            <class>Druid</class>
+            <class>Hunter</class>
+            <class>Priest</class>
+            <class>Rogue</class>
+            <class>Warrior</class>
+        </classes>
+        <image>racesImage/nightelf.png</image>
+    </race>
+    <race>
+        <faction>Horde</faction>
+        <racename>Orc</racename>
+        <descrtiption>
+        The savage, green-skinned orcs are one of the most prolific races of Azeroth. They are commonly believed to be brutal and mindless, possessing no humanity or empathy for other races. Born on the hellish world of Draenor, the orcs were brought into the kingdom of Stormwind through the dimensional gateway known as the Dark Portal and forced to wage war on the humans.
+        Although few are aware of their history, the orcs once cultivated a noble, shamanistic society on the world of Draenor. Tragically, the proud orc clans were corrupted by the Burning Legion and used as pawns in the Legion's invasion of Azeroth. The orcs managed to rebel, however, and they were ultimately able to help turn the tide against their demon masters. Led by the young Warchief, Thrall, the orcs have reclaimed their strength and honor. Now, the orcs stand ready to fight not for the sake of conquest, but for their right to survive in their adopted world.
+        </descrtiption>
+        <classes>
+            <class>Hunter</class>
+            <class>Rogue</class>
+            <class>Shaman</class>
+            <class>Warlock</class>
+            <class>Warrior</class>
+        </classes>
+        <image>racesImage/orc.webp</image>
+    </race>
+    <race>
+        <faction>Horde</faction>
+        <racename>Troll</racename>
+        <descrtiption>
+        The vicious jungle trolls, who populate the numerous islands of the South Seas, are renowned for their cruelty and dark mysticism. Barbarous and superstitious, the wily trolls carry a seething hatred for all other races.
+        One tribe, however, was forced to overcome its prejudices when it encountered the orc Warchief, Thrall, and his mighty Horde. The trolls of the Darkspear tribe, long since exiled from their ancestral lands in Stranglethorn Vale, were nearly destroyed by a band of aquatic murlocs, but Thrall and the Horde managed to save them. In return the grateful trolls swore an oath of eternal allegiance to the Horde.
+        </descrtiption>
+        <classes>
+            <class>Hunter</class>
+            <class>Mage</class>
+            <class>Priest</class>
+            <class>Rogue</class>
+            <class>Shaman</class>
+            <class>Warrior</class>
+        </classes>
+        <image>racesImage/troll.png</image>
+    </race>
+    <race>
+        <faction>Horde</faction>
+        <racename>Tauren</racename>
+        <descrtiption>
+        The Tauren are huge, bestial creatures who live in the grassy, open barrens of central Kalimdor. They live to serve nature and maintain the balance between the wild things of the land and the restless spirit of the elements. Despite their enormous size and brute strength, the remarkably peaceful Tauren cultivate a quiet, tribal society. However, when roused by conflict, Tauren are implacable enemies who will use every ounce of their strength to smash their enemies under hoof.
+        Under the leadership of their ancient chief, Cairne Bloodhoof, the Tauren allied themselves with the orcs during the invasion of the Burning Legion. The two races have remained steadfast allies ever since. Like the orcs, the Tauren struggle to retain their sense of tradition and noble identity.
+        </descrtiption>
+        <classes>
+            <class>Druid</class>
+            <class>Hunter</class>
+            <class>Shaman</class>
+            <class>Warrior</class>
+        </classes>
+        <image>racesImage/tauren.png</image>
+    </race>
+    <race>
+        <faction>Horde</faction>
+        <racename>Forsaken</racename>
+        <descrtiption>
+        Having broken free from the tyrannical rule of the Lich King, a renegade group of undead seek to retain their own free will while destroying all those who oppose them. Known as the Forsaken, this group is dedicated to serving their leader, the banshee queen Sylvanas Windrunner. These dark warriors have established a secret stronghold beneath the ruins of Lordaeron's former capital city. Situated deep beneath the cursed Tirisfal Glades, the labyrinthine Undercity is a sprawling bastion of evil. Within its shadowy confines, Sylvanas' royal apothecaries scramble to develop a devastating new plague - one which will not only eradicate their hated Scourge rivals, but the rest of humanity as well. To further their dark aims, the Forsaken have entered into an alliance of convenience with the primitive, brutish races of the Horde. Holding no real loyalty for their newfound comrades, the Forsaken have duped them into fighting against their common enemy - the Lich King. Only time will tell how these disciples of doom will fare in their mission of vengeance.
+        </descrtiption>
+        <classes>
+            <class>Mage</class>
+            <class>Priest</class>
+            <class>Rogue</class>
+            <class>Warlock</class>
+            <class>Warrior</class>
+        </classes>
+        <image>racesImage/undead.png</image>
+    </race>
+</races>

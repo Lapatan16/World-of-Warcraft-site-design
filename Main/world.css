@@ -1,0 +1,75 @@
+#cont
+{
+    text-align: center;
+}
+p
+{
+    margin: 0;
+    text-align: justify;
+    padding: 10px;
+}
+
+.slika
+{
+    margin-top: 15px;
+    width: 350px;
+    height: 550px;
+}
+
+.naslov
+{
+    display: flex;
+    justify-content: center;
+}
+
+.naslov h2
+{
+    padding: 20px;
+}
+
+.poravnanja
+{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(0, 0, 0, 0.444);
+
+}
+
+.prvi
+{
+    width: 60%;
+}
+
+li
+{
+    text-align: justify;
+}
+
+.show
+{
+    text-align: center;
+    width: 250px;
+    margin: 10px auto;
+}
+
+.show button
+{
+    color: yellow;
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.444);
+    border: 2px solid #b8860b;
+    width: 200px;
+    font-size: 20px;
+}
+
+.show button:hover
+{
+    background-color: #b8860b;
+    color: white;
+    border: 2px solid black;
+}
+
+#more img, #mapa
+{
+    width: 100%;
+}

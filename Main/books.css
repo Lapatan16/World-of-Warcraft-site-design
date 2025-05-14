@@ -1,0 +1,117 @@
+#cont
+{
+    color: yellow;
+    display: flex;
+    justify-content: space-between;
+}
+
+#cont a
+{
+    color: royalblue;
+    text-decoration: none;
+}
+
+#filteri
+{
+    display: flex;
+    justify-content: center;
+}
+
+#left
+{
+    margin: 20px 0 0 10px;
+    width: 550px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 25px;
+    padding: 15px 0 15px 15px;
+    background-color: rgba(0, 0, 0, 0.444);
+}
+
+#right
+{
+    width: 35%;
+    height: 750px;
+    margin: 20px 10px 0 10px;
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.444);
+}
+
+h2
+{
+    font-size: 1.2em;
+    color: yellow;
+}
+
+.book
+{
+    width: 150px;
+    text-align: center;
+}
+
+#left img
+{
+    width: 150px;
+    height: 245px;
+}
+
+#info
+{
+    text-align: center;
+}
+
+#info p
+{
+    margin: 0;
+}
+
+#cartDiv
+{
+    border: 1px solid white;
+    margin: 0 2px;
+    margin-top: 10px;
+    padding: 0 10px;
+}
+
+#butt
+{
+    width: 70px;
+    padding: 10px;
+    background-color: red;
+}
+
+.tacno
+{
+    background-color: green;
+}
+
+.netacno
+{
+    background-color: red;
+}
+
+#uvod
+{
+    background-color: black;
+    opacity: 75%;
+}
+
+#uvod p
+{
+    margin: 0;
+    text-align: justify;
+    padding: 5px 100px;
+}
+
+
+ul
+{
+    padding: 0;
+    padding-left: 15px;
+    font-size: 15.1px;
+}
+
+li
+{
+    list-style: disc;
+}

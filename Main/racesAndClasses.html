@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Races</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="/images/logo.jpg">
+    <link rel="stylesheet" href="racesAndClasses.css">
+    <script src="races.js" defer></script>
+</head>
+<body onload="loadXML()">
+    
+    <video id="background-video" autoplay loop muted poster="images/PocetnaSlika.png">
+        <source src="images/wowVideo.mp4" type="video/mp4">
+      </video>
+
+    <div id="page">
+        <div id="bann">
+            <img src="images/header.avif">
+        </div>
+        <div id="navb">
+            <a href="index.html">home</a>
+            <a href="world.html">world
+                <!-- prikaz i opis kontinenta i zona -->
+            </a>
+            <a href="books.html">books
+                <!-- ucitavanje iz xml-a i mogucnost kupovine -->
+            </a>
+            <a href="characters.html">characters
+                <!-- arthas, ilidan, itd... -->
+            </a> 
+            <a href="racesAndClasses.html">races & classes
+                <!-- odabir klasa i rasa kao u igrici -->
+            </a>
+        </div>
+        <div id="main">
+            
+            <div id="cont">
+                <div id="naslov">
+                    <h1>Select a faction!</h1>
+                </div>
+                <div id="factions">
+                    <div onclick="updateRaces('Alliance')" id="alliance">
+                        <h2>Alliance</h2>
+                        <img src="images/World Of Warcraft.jpeg" alt="">
+                    </div>
+                    <div onclick="updateRaces('Horde')" id="horde">
+                        <h2>Horde</h2>
+                        <img src="images/horde.jpg" alt="">
+                    </div>
+                </div>
+                <div id="raceAndClass">
+                    <div id="race"></div>
+                    <div id="class"></div>
+                    <div id="desc">
+                        <div id="descRace"></div>
+                        <div id="descClass"></div>
+                    </div>
+                </div>
+            </div>
+                
+        </div>
+        <div id="foot">DESIGNED BY MATEJA LAPATANOVIC</div>
+    </div>
+
+</body>
+</html>

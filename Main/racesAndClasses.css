@@ -1,0 +1,109 @@
+#factions
+{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+h2
+{
+    margin: 8px 0;
+    color: yellow;
+}
+
+#factions img
+{
+    width: 250px;
+    height: 145px;
+    transition: 0.15s;
+}
+
+#factions > div:hover
+{
+    transform: scale(1.02);
+}
+
+#raceAndClass
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 15px;
+    background-color: rgba(0, 0, 0, 0.444);
+}
+
+#raceAndClass > div
+{
+    width: 30%;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+table
+{
+    border-collapse: collapse;
+    font-size: 30px;
+    width: 260px;
+    margin: auto;
+    margin-top: 15px;
+}
+
+tr
+{
+    border: 3px solid black;
+    transition: 0.15s;
+}
+
+tr:hover
+{
+    background-color: white;
+    color: black;
+    transform: scale(1.02);
+}
+
+td img
+{
+    width: 70px;
+}
+
+#desc > div
+{
+    border: 3px solid black;
+}
+
+#descRace
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+#desc p 
+{
+    text-align: justify;
+}
+
+#desc img
+{
+    float: left;
+    width: 70px;
+    margin-right: 5px;
+    padding-top: 3px;
+}
+
+#descRace p, #descClass p
+{
+    height: 190px;
+    overflow-y: scroll;
+    margin: 0;
+    margin-bottom: 2px;
+    padding: 0 3px;
+}
+
+.selected
+{
+    background-color: purple;
+    color: white;
+}
+
+
+
+

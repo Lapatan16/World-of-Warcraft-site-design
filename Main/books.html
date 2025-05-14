@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Books</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="/images/logo.jpg">
+    <link rel="stylesheet" href="books.css">
+    <script src="bookScript.js" defer></script>
+</head>
+<body onload="loadXML()">
+    
+    <video id="background-video" autoplay loop muted poster="images/PocetnaSlika.png">
+        <source src="images/wowVideo.mp4" type="video/mp4">
+      </video>
+
+    <div id="page">
+        <div id="bann">
+            <img src="images/header.avif">
+        </div>
+        <div id="navb">
+            <a href="index.html">home</a>
+            <a href="world.html">world
+                <!-- prikaz i opis kontinenta i zona -->
+            </a>
+            <a href="books.html">books
+                <!-- ucitavanje iz xml-a i mogucnost kupovine -->
+            </a>
+            <a href="characters.html">characters
+                <!-- arthas, ilidan, itd... -->
+            </a> 
+            <a href="racesAndClasses.html">races & classes
+                <!-- odabir klasa i rasa kao u igrici -->
+            </a>
+        </div>
+        <div id="main">
+            <div id="naslov">
+                <h1>Book store</h1>
+            </div>
+            <div id="filteri">
+                <fieldset>
+                    <legend>Search</legend>
+                    <input onkeyup="updateBooks()" id="search" type="text" placeholder="Search...">
+                </fieldset>
+                <fieldset>
+                    <legend>Year</legend>
+                    <input onchange="updateBooks()" type="radio" id="newer" name="year" checked>
+                    <label for="newer">Newer</label>
+                    <input onchange="updateBooks()" type="radio" id="older" name="year">
+                    <label for="older">Older</label>
+                    <input onkeyup="updateBooks()" id="inp-year" type="text" placeholder="Year...">
+                </fieldset>
+                <fieldset>
+                    <legend>Authors</legend>
+                    <select onchange="updateBooks()" name="Authors" id="aut">
+                        <option value="all">All</option>
+                    </select>
+                </fieldset>
+                <fieldset>
+                    <legend>Minimum Price</legend>
+                    <input onkeyup="updateBooks()" id="inp-price" type="text" placeholder="Price...">
+                </fieldset>
+            </div>
+            <div id="cont">
+                <div id="left"></div>
+                <div id="right">
+                    <div id="info">
+                        <fieldset>
+                            <legend>Info</legend>
+                            <p>Name</p>
+                            <input type="text" id="name" placeholder="John...">
+                            <p>Lastname</p>
+                            <input type="text" id="lastname" placeholder="Johnsovic...">
+                            <p>Email</p>
+                            <input type="text" id="email" placeholder="john.jonsovic@email.com">
+                            <p>Address</p>
+                            <input type="text" id="adr" placeholder="Radoja Domanovica 1">
+                            <p>Contact</p>
+                            <input type="text" id="contact" placeholder="+XXX XX XXXXXXX">
+                            <!-- <div id="butt">Order</div> -->
+                             <button onclick="info()" id="butt">Order</button>
+                        </fieldset>
+                    </div>
+                    <div id="cartDiv">
+                        <ul id="cart">
+
+                        </ul>
+                        <p id="price"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="foot">DESIGNED BY MATEJA LAPATANOVIC</div>
+    </div>
+
+</body>
+</html>
